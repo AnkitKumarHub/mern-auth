@@ -9,4 +9,6 @@ server/*
 !server/package-lock.json
 !server/server.js
 !server/config
+!server/controllers
+!server/middleware
 
