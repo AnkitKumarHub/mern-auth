@@ -12,7 +12,9 @@ This project is a MERN (MongoDB, Express.js, React, Node.js) stack application t
 - **Password Encryption**: Ensures user passwords are securely stored using encryption techniques.
 - **JWT Authentication**: Utilizes JSON Web Tokens (JWT) for secure user authentication and session management.
 - **Protected Routes**: Restricts access to certain routes based on user authentication status.
-- **User Profile Management**: Allows users to view and update their profile information.
+- **Rate Limiting**: Protects the application from brute-force attacks by limiting login attempts.
+- **Social Login**: Allows users to log in using their social media accounts (e.g., Google, Facebook).
+- **Email Notifications**: Sends email notifications for important events, such as logins from new devices or password changes.
 - **Error Handling**: Provides comprehensive error handling for various authentication-related issues.
 
 ## Technologies Used

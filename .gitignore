@@ -2,13 +2,5 @@ node_modules/
 client/.env
 server/.env
 
-server/*
 
-!server/server.js
-!server/package.json
-!server/package-lock.json
-!server/server.js
-!server/config
-!server/controllers
-!server/middleware
 
