@@ -30,7 +30,7 @@ To get started with this project, follow the instructions below:
 
 1. Clone the repository.
     ```bash
-   git clone https://github.com/AnkitKumarHub/Wanderlust.git
+   git clone https://github.com/AnkitKumarHub/mern-auth.git
 
 2. Navigate to the project directory.
 3. Install the necessary dependencies.
